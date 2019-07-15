@@ -14,9 +14,6 @@ path = 'ip.txt'
 ip_file_r = open(path, 'r')
 ip_check = ip_file_r.read()
 
-print(ip_check)
-print(external_ip)
-
 ip_file_r.close()
 
 message = """\
