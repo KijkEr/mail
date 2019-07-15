@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import smtplib, ssl, secrets, urllib.request
 
 port = 465
